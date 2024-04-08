@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 3rem;
+}
+img{
+    height: 300px;
+    width: 500px;
+    border: 8px solid white
+
+}
+p{
+    color: white;
+}
