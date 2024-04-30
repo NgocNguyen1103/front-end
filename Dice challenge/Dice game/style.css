@@ -1,0 +1,35 @@
+body {
+    background-color: #292626de;
+}
+
+h1{
+    color: rgb(50, 188, 188);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 15vh;
+    margin-bottom: 0;
+}
+p{
+    color: rgb(50, 188, 188);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 4vh;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+.player{
+    display: flex;
+    gap:100px;
+    justify-content: center;
+}
+
+h2{
+    color: rgb(50, 188, 188);
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+
+}
+
+img{
+    height: 200px;
+}
